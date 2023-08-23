@@ -1,19 +1,16 @@
 ## Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
-<div align="left">
-  <div>
-  <p>
-    <a align="left" href="" target="_blank">
-      <img
-        width="15%"
-        src="https://learning.oreilly.com/library/cover/9781492032632/250w/"
-      >
-    </a>
-  </p>
+<!-- Content for the two columns -->
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 0 10px;">
+    <!-- Content for the first column -->
+    This is the content for the first column.
   </div>
-  <div>
-  <p align='right'>
-  This is a study of this book by 
-  </p>
+  <div style="flex: 50%; padding: 0 10px;">
+    <!-- Content for the second column -->
+    This is the content for the second column.
   </div>
 </div>
+
+<!-- Back to one column -->
+This is the content for the single column.
