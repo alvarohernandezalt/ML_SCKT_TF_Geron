@@ -4,7 +4,7 @@
   <p>
     <a align="left" href="" target="_blank">
       <img
-        width="100%"
+        width="20%"
         src="https://learning.oreilly.com/library/cover/9781492032632/250w/"
       >
     </a>
