@@ -1,6 +1,7 @@
 ## Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 <div align="left">
+  <div>
   <p>
     <a align="left" href="" target="_blank">
       <img
@@ -9,4 +10,10 @@
       >
     </a>
   </p>
+  </div>
+  <div>
+  <p align='right'>
+  This is a study of this book by 
+  </p>
+  </div>
 </div>
