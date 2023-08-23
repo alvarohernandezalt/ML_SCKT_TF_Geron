@@ -12,3 +12,15 @@
   </p>
   </div>
 </div>
+
+Repository following exercises, annotations and some other stuff from this book:
+
+#### *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition*
+Released September 2019 <br>
+Publisher(s): O'Reilly Media, Inc.<br>
+ISBN: 9781492032649<br>
+
+**INDEX OF CONTENT**
+
+...
+
