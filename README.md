@@ -24,3 +24,5 @@ ISBN: 9781492032649<br>
 
 ...
 
+* 01 - Machine Learning Landscape
+* 02 - Practical Exercise (California Housing Prize Prediction)
